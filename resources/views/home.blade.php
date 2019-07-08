@@ -213,5 +213,5 @@
        }) });
 
     </script>
-        <!-- /.content -->
+        
 @endsection

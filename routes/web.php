@@ -43,7 +43,8 @@ Route::group([
         'as' => 'category.update'
     ]);
     Route::delete('/delete/{id}', [
-        'uses' => 'CategoryController@destroy',
+        'uses' => 'CategoryController@delete',
         'as' => 'category.delete'
     ]);
+    
 });
