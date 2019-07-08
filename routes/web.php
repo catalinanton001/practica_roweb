@@ -46,7 +46,4 @@ Route::group([
         'uses' => 'CategoryController@destroy',
         'as' => 'category.delete'
     ]);
-    Route::delete('/delete-all', [
-        'uses' => 'CategoryController@destroyAll',
-    ]);
 });

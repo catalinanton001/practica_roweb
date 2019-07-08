@@ -102,7 +102,7 @@
                       <tr>
                         <th scope="col">#</th>
                         <th scope="col">Name</th>
-                        <th scope="col">Part of category</th>
+                        <th scope="col">Belongs to</th>
                         <th scope="col">Action</th>
                       </tr>
                     </thead>
